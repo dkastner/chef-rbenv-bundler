@@ -7,7 +7,7 @@ plugin for the rbenv::system install.
 
 ## Usage
 
-Include `recipe[rbenv_bundler]` in your run_list and override the defaults
+Include `recipe[rbenv-bundler]` in your run_list and override the defaults
 you want changed.
 
 ## Installation
